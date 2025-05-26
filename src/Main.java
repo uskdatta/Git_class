@@ -31,5 +31,6 @@ public class Main {
                 System.out.println(numbers[i] + " is not a prime number.");
             }
         }
+        System.out.println("Hello");
     }
 }
